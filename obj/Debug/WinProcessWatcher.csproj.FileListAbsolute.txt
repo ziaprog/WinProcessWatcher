@@ -1,0 +1,9 @@
+c:\users\junaidi\documents\visual studio 2015\Projects\WinProcessWatcher\WinProcessWatcher\bin\Debug\WinProcessWatcher.exe.config
+c:\users\junaidi\documents\visual studio 2015\Projects\WinProcessWatcher\WinProcessWatcher\bin\Debug\WinProcessWatcher.exe
+c:\users\junaidi\documents\visual studio 2015\Projects\WinProcessWatcher\WinProcessWatcher\bin\Debug\WinProcessWatcher.pdb
+c:\users\junaidi\documents\visual studio 2015\Projects\WinProcessWatcher\WinProcessWatcher\obj\Debug\WinProcessWatcher.csprojResolveAssemblyReference.cache
+c:\users\junaidi\documents\visual studio 2015\Projects\WinProcessWatcher\WinProcessWatcher\obj\Debug\WinProcessWatcher.Properties.Resources.resources
+c:\users\junaidi\documents\visual studio 2015\Projects\WinProcessWatcher\WinProcessWatcher\obj\Debug\WinProcessWatcher.csproj.GenerateResource.Cache
+c:\users\junaidi\documents\visual studio 2015\Projects\WinProcessWatcher\WinProcessWatcher\obj\Debug\WinProcessWatcher.exe
+c:\users\junaidi\documents\visual studio 2015\Projects\WinProcessWatcher\WinProcessWatcher\obj\Debug\WinProcessWatcher.pdb
+c:\users\junaidi\documents\visual studio 2015\Projects\WinProcessWatcher\WinProcessWatcher\obj\Debug\WinProcessWatcher.Form1.resources
