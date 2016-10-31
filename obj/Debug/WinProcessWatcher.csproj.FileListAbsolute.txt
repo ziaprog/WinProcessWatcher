@@ -7,5 +7,3 @@ c:\users\junaidi\documents\visual studio 2015\Projects\WinProcessWatcher\WinProc
 c:\users\junaidi\documents\visual studio 2015\Projects\WinProcessWatcher\WinProcessWatcher\obj\Debug\WinProcessWatcher.exe
 c:\users\junaidi\documents\visual studio 2015\Projects\WinProcessWatcher\WinProcessWatcher\obj\Debug\WinProcessWatcher.pdb
 c:\users\junaidi\documents\visual studio 2015\Projects\WinProcessWatcher\WinProcessWatcher\obj\Debug\WinProcessWatcher.Form1.resources
-C:\Users\junaidi\Documents\Visual Studio 2015\Projects\WinProcessWatcher\WinProcessWatcher\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\junaidi\Documents\Visual Studio 2015\Projects\WinProcessWatcher\WinProcessWatcher\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
