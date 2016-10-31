@@ -59,15 +59,5 @@ namespace WinProcessWatcher.Properties {
                 resourceCulture = value;
             }
         }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap swan_bird_lake_animal_37637_large__1_ {
-            get {
-                object obj = ResourceManager.GetObject("swan-bird-lake-animal-37637-large (1)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
     }
 }
